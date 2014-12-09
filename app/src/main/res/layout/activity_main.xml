@@ -113,9 +113,9 @@
         android:layout_height="wrap_content"
         android:text="New Switch"
         android:id="@+id/switch1"
-        android:layout_alignBottom="@+id/button2"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true" /><![CDATA[
+        android:layout_alignTop="@+id/button2"
+        android:layout_alignRight="@+id/checkBox3"
+        android:layout_alignEnd="@+id/checkBox3" /><![CDATA[
 
     >>>>>> parent of 902a15b... Hola
         android:layout_width="wrap_content"
