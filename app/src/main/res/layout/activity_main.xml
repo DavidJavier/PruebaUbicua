@@ -102,4 +102,14 @@
         android:layout_alignRight="@+id/checkBox3"
         android:layout_alignEnd="@+id/checkBox3" />
 
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="hopopoo"
+        android:id="@+id/checkBox4"
+        android:layout_above="@+id/checkBox2"
+        android:layout_alignRight="@+id/checkBox2"
+        android:layout_alignEnd="@+id/checkBox2"
+        android:checked="false" />
+
 </RelativeLayout>
