@@ -12,11 +12,12 @@
     <CheckBox
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="New CheckBox"
+        android:text="chris mariquitiqui"
         android:id="@+id/checkBox"
         android:layout_alignParentTop="true"
         android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true" />
+        android:layout_alignParentEnd="true"
+        android:checked="true" />
 
     <Button
         android:layout_width="wrap_content"
@@ -105,7 +106,9 @@
         android:layout_alignEnd="@+id/checkBox3" />
 
     <CheckBox
->>>>>>> parent of 902a15b... Hola
+><![CDATA[
+
+    >>>>>> parent of 902a15b... Hola
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/seekBar"
@@ -114,4 +117,5 @@
         android:layout_alignRight="@+id/checkBox3"
         android:layout_alignEnd="@+id/checkBox3" />
 
+]]>
 </RelativeLayout>
