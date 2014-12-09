@@ -94,6 +94,18 @@
         android:layout_toStartOf="@+id/checkBox3" />
 
     <SeekBar
+<<<<<<< HEAD
+=======
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/seekBar"
+        android:layout_alignTop="@+id/button2"
+        android:layout_toRightOf="@+id/checkBox2"
+        android:layout_alignRight="@+id/checkBox3"
+        android:layout_alignEnd="@+id/checkBox3" />
+
+    <CheckBox
+>>>>>>> parent of 902a15b... Hola
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/seekBar"
