@@ -105,7 +105,16 @@
         android:layout_alignEnd="@+id/checkBox3" />
 
     <CheckBox
->>>>>>> parent of 902a15b... Hola
+>
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New CheckBox"
+        android:id="@+id/checkBox4"
+        android:layout_alignTop="@+id/button2"
+        android:layout_toRightOf="@+id/checkBox2"
+        android:layout_toEndOf="@+id/checkBox2" />>>>>>> parent of 902a15b... Hola
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/seekBar"
