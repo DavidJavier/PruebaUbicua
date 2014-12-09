@@ -106,7 +106,16 @@
         android:layout_alignEnd="@+id/checkBox3" />
 
     <CheckBox
-><![CDATA[
+>
+
+    <Switch
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Switch"
+        android:id="@+id/switch1"
+        android:layout_centerVertical="true"
+        android:layout_alignRight="@+id/checkBox"
+        android:layout_alignEnd="@+id/checkBox" /><![CDATA[
 
     >>>>>> parent of 902a15b... Hola
         android:layout_width="wrap_content"
