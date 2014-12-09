@@ -75,10 +75,11 @@
     <CheckBox
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="New CheckBox"
+        android:text="holas"
         android:id="@+id/checkBox3"
         android:layout_below="@+id/button"
         android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true" />
+        android:layout_alignParentEnd="true"
+        android:checked="false" />
 
 </RelativeLayout>
